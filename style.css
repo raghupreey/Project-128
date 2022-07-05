@@ -1,0 +1,32 @@
+.tittle
+{
+    width: 100%;
+    font-size: 25px;
+}
+
+#note
+{
+    color: black;
+    font-size: 15px;    
+}
+
+.background
+{
+    background-image: URL("background.jpg");
+    background-size: cover;
+}
+
+
+
+.play
+{
+    width: 130px;
+    font-size: 20px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 80px;
+}
